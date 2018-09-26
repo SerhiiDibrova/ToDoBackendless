@@ -1,0 +1,181 @@
+2018-09-26 07:56:51,191 [INFO] JDK from "JAVA_HOME" - C:\Program Files\Java\jdk1.8.0_171
+2018-09-26 07:56:51,629 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2018-09-26 07:56:51,630 [INFO] Copyright(C) 2018 Backendless Corp. All rights reserved. 
+2018-09-26 07:56:51,630 [INFO] Version: 5.1.2 Build date: 2018-09-18T12:41:30Z
+2018-09-26 07:56:51,673 [INFO] CodeRunner session is running for 2 hours and will be terminated on 09:56:51.656[UTC]
+2018-09-26 07:56:51,970 [INFO] Registering runner on: 'https://api.backendless.com'
+2018-09-26 07:56:51,980 [INFO] Application ID:  '9E10795D-B390-60AC-FF17-B43D5EAF0800'
+2018-09-26 07:56:51,981 [INFO] Api key:         '9BBA9ABA-0149-B038-FF94-5CB9AEC36E00'
+2018-09-26 07:56:59,122 [INFO] Runner successfully registered
+2018-09-26 07:56:59,217 [INFO] Parsing event model...
+2018-09-26 07:57:03,655 [INFO] Build successfully: 0 event handlers and 0 timers and 1 service
+2018-09-26 07:57:03,657 [INFO] Deploying model to server, and starting debug...
+2018-09-26 07:57:07,647 [INFO] Model successfully deployed.
+2018-09-26 07:57:07,648 [INFO] Waiting for events...
+2018-09-26 08:01:47,140 [INFO] Debugging Utility disconnected successfully
+2018-09-26 08:01:47,144 [INFO] Thank you for using Backendless
+2018-09-26 08:07:57,007 [INFO] JDK from "JAVA_HOME" - C:\Program Files\Java\jdk1.8.0_171
+2018-09-26 08:07:57,156 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2018-09-26 08:07:57,157 [INFO] Copyright(C) 2018 Backendless Corp. All rights reserved. 
+2018-09-26 08:07:57,157 [INFO] Version: 5.1.2 Build date: 2018-09-18T12:41:30Z
+2018-09-26 08:07:57,164 [INFO] CodeRunner session is running for 2 hours and will be terminated on 10:07:57.161[UTC]
+2018-09-26 08:07:57,271 [INFO] Registering runner on: 'https://api.backendless.com'
+2018-09-26 08:07:57,294 [INFO] Application ID:  '9E10795D-B390-60AC-FF17-B43D5EAF0800'
+2018-09-26 08:07:57,295 [INFO] Api key:         '9BBA9ABA-0149-B038-FF94-5CB9AEC36E00'
+2018-09-26 08:08:00,266 [INFO] Runner successfully registered
+2018-09-26 08:08:00,292 [INFO] Parsing event model...
+2018-09-26 08:08:03,375 [INFO] Build successfully: 0 event handlers and 0 timers and 1 service
+2018-09-26 08:08:03,378 [INFO] Deploying model to server, and starting debug...
+2018-09-26 08:08:05,617 [INFO] Model successfully deployed.
+2018-09-26 08:08:05,618 [INFO] Waiting for events...
+2018-09-26 08:12:14,239 [INFO] Debugging Utility disconnected successfully
+2018-09-26 08:12:14,241 [INFO] Thank you for using Backendless
+2018-09-26 08:12:36,745 [INFO] JDK from "JAVA_HOME" - C:\Program Files\Java\jdk1.8.0_171
+2018-09-26 08:12:36,920 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2018-09-26 08:12:36,922 [INFO] Copyright(C) 2018 Backendless Corp. All rights reserved. 
+2018-09-26 08:12:36,923 [INFO] Version: 5.1.2 Build date: 2018-09-18T12:41:30Z
+2018-09-26 08:12:36,933 [INFO] CodeRunner session is running for 2 hours and will be terminated on 10:12:36.928[UTC]
+2018-09-26 08:12:37,029 [INFO] Registering runner on: 'https://api.backendless.com'
+2018-09-26 08:12:37,038 [INFO] Application ID:  '9E10795D-B390-60AC-FF17-B43D5EAF0800'
+2018-09-26 08:12:37,039 [INFO] Api key:         '9BBA9ABA-0149-B038-FF94-5CB9AEC36E00'
+2018-09-26 08:12:39,908 [INFO] Runner successfully registered
+2018-09-26 08:12:39,928 [INFO] Parsing event model...
+2018-09-26 08:12:43,162 [INFO] Build successfully: 0 event handlers and 0 timers and 1 service
+2018-09-26 08:12:43,165 [INFO] Deploying model to server, and starting debug...
+2018-09-26 08:12:45,290 [INFO] Model successfully deployed.
+2018-09-26 08:12:45,290 [INFO] Waiting for events...
+2018-09-26 08:15:31,764 [INFO] Debugging Utility disconnected successfully
+2018-09-26 08:15:31,766 [INFO] Thank you for using Backendless
+2018-09-26 08:15:34,906 [INFO] JDK from "JAVA_HOME" - C:\Program Files\Java\jdk1.8.0_171
+2018-09-26 08:15:35,042 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2018-09-26 08:15:35,043 [INFO] Copyright(C) 2018 Backendless Corp. All rights reserved. 
+2018-09-26 08:15:35,043 [INFO] Version: 5.1.2 Build date: 2018-09-18T12:41:30Z
+2018-09-26 08:15:35,055 [INFO] CodeRunner session is running for 2 hours and will be terminated on 10:15:35.049[UTC]
+2018-09-26 08:15:35,145 [INFO] Registering runner on: 'https://api.backendless.com'
+2018-09-26 08:15:35,156 [INFO] Application ID:  '9E10795D-B390-60AC-FF17-B43D5EAF0800'
+2018-09-26 08:15:35,158 [INFO] Api key:         '9BBA9ABA-0149-B038-FF94-5CB9AEC36E00'
+2018-09-26 08:15:38,080 [INFO] Runner successfully registered
+2018-09-26 08:15:38,103 [INFO] Parsing event model...
+2018-09-26 08:15:41,118 [INFO] Build successfully: 0 event handlers and 0 timers and 1 service
+2018-09-26 08:15:41,120 [INFO] Deploying model to server, and starting debug...
+2018-09-26 08:15:42,916 [INFO] Model successfully deployed.
+2018-09-26 08:15:42,917 [INFO] Waiting for events...
+2018-09-26 08:20:43,760 [INFO] Debugging Utility disconnected successfully
+2018-09-26 08:20:43,766 [INFO] Thank you for using Backendless
+2018-09-26 08:20:48,155 [INFO] JDK from "JAVA_HOME" - C:\Program Files\Java\jdk1.8.0_171
+2018-09-26 08:20:48,302 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2018-09-26 08:20:48,303 [INFO] Copyright(C) 2018 Backendless Corp. All rights reserved. 
+2018-09-26 08:20:48,303 [INFO] Version: 5.1.2 Build date: 2018-09-18T12:41:30Z
+2018-09-26 08:20:48,318 [INFO] CodeRunner session is running for 2 hours and will be terminated on 10:20:48.310[UTC]
+2018-09-26 08:20:48,419 [INFO] Registering runner on: 'https://api.backendless.com'
+2018-09-26 08:20:48,427 [INFO] Application ID:  '9E10795D-B390-60AC-FF17-B43D5EAF0800'
+2018-09-26 08:20:48,427 [INFO] Api key:         '9BBA9ABA-0149-B038-FF94-5CB9AEC36E00'
+2018-09-26 08:20:51,386 [INFO] Runner successfully registered
+2018-09-26 08:20:51,411 [INFO] Parsing event model...
+2018-09-26 08:20:54,340 [INFO] Build successfully: 0 event handlers and 0 timers and 1 service
+2018-09-26 08:20:54,342 [INFO] Deploying model to server, and starting debug...
+2018-09-26 08:20:55,831 [INFO] Model successfully deployed.
+2018-09-26 08:20:55,847 [INFO] Waiting for events...
+2018-09-26 08:23:24,316 [INFO] Debugging Utility disconnected successfully
+2018-09-26 08:23:24,320 [INFO] Thank you for using Backendless
+2018-09-26 08:24:50,970 [INFO] JDK from "JAVA_HOME" - C:\Program Files\Java\jdk1.8.0_171
+2018-09-26 08:24:51,090 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2018-09-26 08:24:51,091 [INFO] Copyright(C) 2018 Backendless Corp. All rights reserved. 
+2018-09-26 08:24:51,091 [INFO] Version: 5.1.2 Build date: 2018-09-18T12:41:30Z
+2018-09-26 08:24:51,101 [INFO] CodeRunner session is running for 2 hours and will be terminated on 10:24:51.095[UTC]
+2018-09-26 08:24:51,170 [INFO] Registering runner on: 'https://api.backendless.com'
+2018-09-26 08:24:51,182 [INFO] Application ID:  '9E10795D-B390-60AC-FF17-B43D5EAF0800'
+2018-09-26 08:24:51,183 [INFO] Api key:         '9BBA9ABA-0149-B038-FF94-5CB9AEC36E00'
+2018-09-26 08:24:54,156 [INFO] Runner successfully registered
+2018-09-26 08:24:54,181 [INFO] Parsing event model...
+2018-09-26 08:24:57,146 [INFO] Build successfully: 0 event handlers and 0 timers and 1 service
+2018-09-26 08:24:57,148 [INFO] Deploying model to server, and starting debug...
+2018-09-26 08:24:59,207 [INFO] Model successfully deployed.
+2018-09-26 08:24:59,207 [INFO] Waiting for events...
+2018-09-26 08:35:54,565 [INFO] Debugging Utility disconnected successfully
+2018-09-26 08:35:54,568 [INFO] Thank you for using Backendless
+2018-09-26 08:36:02,770 [INFO] JDK from "JAVA_HOME" - C:\Program Files\Java\jdk1.8.0_171
+2018-09-26 08:36:02,895 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2018-09-26 08:36:02,896 [INFO] Copyright(C) 2018 Backendless Corp. All rights reserved. 
+2018-09-26 08:36:02,896 [INFO] Version: 5.1.2 Build date: 2018-09-18T12:41:30Z
+2018-09-26 08:36:02,906 [INFO] CodeRunner session is running for 2 hours and will be terminated on 10:36:02.900[UTC]
+2018-09-26 08:36:02,999 [INFO] Registering runner on: 'https://api.backendless.com'
+2018-09-26 08:36:03,009 [INFO] Application ID:  '9E10795D-B390-60AC-FF17-B43D5EAF0800'
+2018-09-26 08:36:03,010 [INFO] Api key:         '9BBA9ABA-0149-B038-FF94-5CB9AEC36E00'
+2018-09-26 08:36:05,775 [INFO] Runner successfully registered
+2018-09-26 08:36:05,797 [INFO] Parsing event model...
+2018-09-26 08:36:08,790 [INFO] Build successfully: 0 event handlers and 0 timers and 1 service
+2018-09-26 08:36:08,792 [INFO] Deploying model to server, and starting debug...
+2018-09-26 08:36:10,333 [INFO] Model successfully deployed.
+2018-09-26 08:36:10,334 [INFO] Waiting for events...
+2018-09-26 08:36:15,959 [INFO] Debugging Utility disconnected successfully
+2018-09-26 08:36:15,960 [INFO] Thank you for using Backendless
+2018-09-26 08:36:22,598 [INFO] JDK from "JAVA_HOME" - C:\Program Files\Java\jdk1.8.0_171
+2018-09-26 08:36:22,834 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2018-09-26 08:36:22,835 [INFO] Copyright(C) 2018 Backendless Corp. All rights reserved. 
+2018-09-26 08:36:22,836 [INFO] Version: 5.1.2 Build date: 2018-09-18T12:41:30Z
+2018-09-26 08:36:22,850 [INFO] CodeRunner session is running for 2 hours and will be terminated on 10:36:22.846[UTC]
+2018-09-26 08:36:23,286 [INFO] Parsing event model...
+2018-09-26 08:36:26,374 [INFO] Build successfully: 0 event handlers and 0 timers and 1 service
+2018-09-26 08:36:26,379 [WARN] IMPORTANT! The business logic code will be deployed to model "default".
+Any business logic which is already deployed on the server in that model
+will be removed and replaced with the code from your current project.
+If this is an undesired behavior, stop now and set a different deployment model
+either by using the -model argument or changing the model name in runner.properties.
+2018-09-26 08:36:38,309 [INFO] Waiting for commands
+2018-09-26 08:36:41,948 [WARN] Such command does not exist!
+2018-09-26 08:36:41,954 [INFO] Please use one of the following commands: build, deploy, publish, status, help, exit.
+2018-09-26 08:36:54,832 [INFO] Debugging Utility disconnected successfully
+2018-09-26 08:36:54,834 [INFO] Thank you for using Backendless
+2018-09-26 08:37:03,015 [INFO] JDK from "JAVA_HOME" - C:\Program Files\Java\jdk1.8.0_171
+2018-09-26 08:37:03,137 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2018-09-26 08:37:03,137 [INFO] Copyright(C) 2018 Backendless Corp. All rights reserved. 
+2018-09-26 08:37:03,137 [INFO] Version: 5.1.2 Build date: 2018-09-18T12:41:30Z
+2018-09-26 08:37:03,146 [INFO] CodeRunner session is running for 2 hours and will be terminated on 10:37:03.142[UTC]
+2018-09-26 08:37:03,243 [INFO] Registering runner on: 'https://api.backendless.com'
+2018-09-26 08:37:03,254 [INFO] Application ID:  '9E10795D-B390-60AC-FF17-B43D5EAF0800'
+2018-09-26 08:37:03,255 [INFO] Api key:         '9BBA9ABA-0149-B038-FF94-5CB9AEC36E00'
+2018-09-26 08:37:06,181 [INFO] Runner successfully registered
+2018-09-26 08:37:06,210 [INFO] Parsing event model...
+2018-09-26 08:37:09,268 [INFO] Build successfully: 0 event handlers and 0 timers and 1 service
+2018-09-26 08:37:09,271 [INFO] Deploying model to server, and starting debug...
+2018-09-26 08:37:11,382 [INFO] Model successfully deployed.
+2018-09-26 08:37:11,383 [INFO] Waiting for events...
+2018-09-26 08:46:22,311 [INFO] Debugging Utility disconnected successfully
+2018-09-26 08:46:22,313 [INFO] Thank you for using Backendless
+2018-09-26 08:46:26,241 [INFO] JDK from "JAVA_HOME" - C:\Program Files\Java\jdk1.8.0_171
+2018-09-26 08:46:26,368 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2018-09-26 08:46:26,368 [INFO] Copyright(C) 2018 Backendless Corp. All rights reserved. 
+2018-09-26 08:46:26,369 [INFO] Version: 5.1.2 Build date: 2018-09-18T12:41:30Z
+2018-09-26 08:46:26,376 [INFO] CodeRunner session is running for 2 hours and will be terminated on 10:46:26.373[UTC]
+2018-09-26 08:46:26,464 [INFO] Registering runner on: 'https://api.backendless.com'
+2018-09-26 08:46:26,473 [INFO] Application ID:  '9E10795D-B390-60AC-FF17-B43D5EAF0800'
+2018-09-26 08:46:26,474 [INFO] Api key:         '9BBA9ABA-0149-B038-FF94-5CB9AEC36E00'
+2018-09-26 08:46:29,256 [INFO] Runner successfully registered
+2018-09-26 08:46:29,275 [INFO] Parsing event model...
+2018-09-26 08:46:32,307 [INFO] Build successfully: 0 event handlers and 0 timers and 1 service
+2018-09-26 08:46:32,309 [INFO] Deploying model to server, and starting debug...
+2018-09-26 08:46:34,369 [INFO] Model successfully deployed.
+2018-09-26 08:46:34,370 [INFO] Waiting for events...
+2018-09-26 08:52:05,308 [INFO] Debugging Utility disconnected successfully
+2018-09-26 08:52:05,329 [INFO] Thank you for using Backendless
+2018-09-26 08:52:37,084 [INFO] JDK from "JAVA_HOME" - C:\Program Files\Java\jdk1.8.0_171
+2018-09-26 08:52:37,220 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2018-09-26 08:52:37,221 [INFO] Copyright(C) 2018 Backendless Corp. All rights reserved. 
+2018-09-26 08:52:37,222 [INFO] Version: 5.1.2 Build date: 2018-09-18T12:41:30Z
+2018-09-26 08:52:37,231 [INFO] CodeRunner session is running for 2 hours and will be terminated on 10:52:37.225[UTC]
+2018-09-26 08:52:37,330 [INFO] Registering runner on: 'https://api.backendless.com'
+2018-09-26 08:52:37,342 [INFO] Application ID:  '9E10795D-B390-60AC-FF17-B43D5EAF0800'
+2018-09-26 08:52:37,343 [INFO] Api key:         '9BBA9ABA-0149-B038-FF94-5CB9AEC36E00'
+2018-09-26 08:52:40,059 [INFO] Runner successfully registered
+2018-09-26 08:52:40,081 [INFO] Parsing event model...
+2018-09-26 08:52:43,216 [INFO] Build successfully: 0 event handlers and 0 timers and 1 service
+2018-09-26 08:52:43,217 [INFO] Deploying model to server, and starting debug...
+2018-09-26 08:52:44,833 [INFO] Model successfully deployed.
+2018-09-26 08:52:44,834 [INFO] Waiting for events...
+2018-09-26 08:57:57,145 [WARN] Such command does not exist!
+2018-09-26 08:57:57,161 [INFO] Please use one of the following commands: build, deploy, publish, status, help, exit.
+2018-09-26 08:57:57,330 [WARN] Such command does not exist!
+2018-09-26 08:57:57,330 [INFO] Please use one of the following commands: build, deploy, publish, status, help, exit.
+2018-09-26 08:58:00,598 [INFO] Debugging Utility disconnected successfully
+2018-09-26 08:58:00,598 [INFO] Thank you for using Backendless
